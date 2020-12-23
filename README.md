@@ -40,7 +40,7 @@ A stock management system using JSF and Spring
 
 1. Fork (optional) and clone repo
 ```
- git clone https://github.com/soufianeodf/spring-boot-asustech.git
+https://github.com/zaidelhassani/spring-boot-asustech-master
 
  cd spring-boot-asustech
 ```
